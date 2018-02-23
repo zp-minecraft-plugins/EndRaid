@@ -1,0 +1,7 @@
+name: EndRaid
+main: me.zackpollard.endraid.EndRaid
+version: 0.1
+commands:
+    er:
+        description: EndRaid
+        usage: Type /er help to get help with all the commands
